@@ -1,0 +1,26 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header .nav li {
+color: #FFAAFF;
+display: inline;
+float: left;
+padding: 10px;
+}
+
+.header .name li {
+color: #000;
+display: inline;
+float: right;
+}
+
+.main .jumbotron  {
+height: 600px;
+background:url("https://33.media.tumblr.com/e9d758ec88516e26affbc574792e363f/tumblr_na48ol56DJ1rdil00o2_1280.png")
+no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
